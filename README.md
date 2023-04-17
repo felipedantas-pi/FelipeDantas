@@ -1,7 +1,7 @@
 Inspirado em: [Icaro Bernades](https://github.com/IcaroBernardes/IcaroBernardes/blob/main/README.md)
 
 <h1 align="center">Hi 👋, I'm Felipe Dantas</h1>
-<h3 align="center">GeoDataScience specialist and founder</h3>
+<h3 align="center">Especialista em SIG, SR, Web Mapping</h3>
 <br>
 
 <h2 align=left>🔭 Work projects</h2>
